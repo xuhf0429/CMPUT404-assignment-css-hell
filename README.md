@@ -21,4 +21,10 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Modifications to the gutenberg HTML Files
+=================
+Used the style css file for the tags to set the texts in a proper format.
+Centered the texts that are aligned
+Adjust the sizes of the borders or images using the style css file
+Set background image using the css file and its url directory
 
