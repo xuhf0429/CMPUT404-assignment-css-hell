@@ -10,7 +10,7 @@ header{
     border-width:5px;
     height:65px;
     width:auto;
-    border-color:#008000;
+    border-color:#FF4500;
     background-color:#FFFFE0;
 }
 
@@ -30,11 +30,10 @@ img{
 
 h2,h3,h4,h5{
     font-size:25px;
-    color:#006400;
 }
 
 .about_my_self li{
-    color:#006400;
+    color:black;
 }
 
 .importance{
@@ -45,7 +44,6 @@ h2,h3,h4,h5{
     border:3px;
     border-width:5px;
     border-style:solid;
-    border-color:#008000;
+    border-color:#FF4500;
     background-color:#FFFACD;
-    color:#006400;
 }
