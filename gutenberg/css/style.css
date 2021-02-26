@@ -1,6 +1,5 @@
 body{
-    background-image:url("../assets/wood.jpg");
-    color:white;
+    background-image:url("../assets/background.jpg");
 }
 
 pre{
@@ -27,7 +26,7 @@ p{
 }
 
 a:link, a:visited{
-    color:yellow;
+    color:#0000FF;
 }
 
 img{
